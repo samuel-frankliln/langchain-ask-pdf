@@ -70,7 +70,8 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Acknowledgments**
-1.Streamlit
-2.OpenAI
-3.LangChain
-4.PyPDF2
+
+-Streamlit
+-OpenAI
+-LangChain
+-PyPDF2
