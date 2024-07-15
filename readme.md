@@ -69,8 +69,8 @@ Contributions are welcome! Please fork this repository and submit a pull request
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-Streamlit
-OpenAI
-LangChain
-PyPDF2
+**Acknowledgments**
+1.Streamlit
+2.OpenAI
+3.LangChain
+4.PyPDF2
