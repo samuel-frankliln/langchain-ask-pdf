@@ -1,4 +1,5 @@
 **AskPDF**
+![alt-text](https://github.com/samuel-frankliln/langchain-ask-pdf/blob/main/image.png)
 
 AskPDF is a Streamlit application that allows you to upload a PDF, extract its text, and ask questions about the content using OpenAI's GPT-3.5-turbo model.
 
